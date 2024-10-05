@@ -222,7 +222,7 @@ Book Now
 <section>
 <h1 className="text-center text-3xl font-bold mb-6">Contact us</h1>
 <form id="contactForm" className="max-w-lg mx-auto p-6 bg-blue-50 shadow-md rounded-md">
-  <h1 className="text-2xl font-bold mb-4 text-gray-800">contact us</h1>
+  <h1 className="text-2xl font-bold mb-4 text-gray-800">Personal Information</h1>
 
   <input
     type="text"
